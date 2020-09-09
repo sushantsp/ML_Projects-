@@ -4,7 +4,6 @@
 
 Three car brands were used for classification, namely Audi, Lamborghini, Mercedes.
 Resnet50 architechture was used for purpose of classification. Main purpose of implementing this project
-was to use keras inbuilt transfer learning architecture. No traninig was done to the model for the given image 
-datasets. 
+was to use keras inbuilt transfer learning architecture. 
 
 Traninig Accuracy of 95% with test accuracy of 86 % was achieved.
