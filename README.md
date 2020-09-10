@@ -8,6 +8,9 @@ was to use keras inbuilt transfer learning architecture.
 
 Traninig Accuracy of 95% with test accuracy of 86 % was achieved.
 
+Resources on Transfer Learning :
+1) Transfer Learning | [Kaggle](https://www.youtube.com/watch?v=mPFq5KMxKVw) 
+
 2) Credit card Assesment Using XGBoost [:link:](https://github.com/sushantsp/ML_Projects-/blob/master/Credit_card_Risk_Assessment_using_XGBoost.ipynb)
 
   Content
