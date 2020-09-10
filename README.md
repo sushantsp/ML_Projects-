@@ -7,8 +7,9 @@ Resnet50 architechture was used for purpose of classification. Main purpose of i
 was to use keras inbuilt transfer learning architecture. 
 
 Traninig Accuracy of 95% with test accuracy of 86 % was achieved.  
-  Resources on Transfer Learning :  
-  * Transfer Learning | [Kaggle](https://www.youtube.com/watch?v=mPFq5KMxKVw) 
+    Resources on Transfer Learning:<br/>
+     - Transfer Learning | [Kaggle](https://www.youtube.com/watch?v=mPFq5KMxKVw)  
+     - Transfer Learning | [Andrew Ng](https://www.youtube.com/watch?v=yofjFQddwHE)     
 
 
 
