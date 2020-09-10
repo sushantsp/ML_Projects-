@@ -6,10 +6,11 @@ Three car brands were used for classification, namely Audi, Lamborghini, Mercede
 Resnet50 architechture was used for purpose of classification. Main purpose of implementing this project
 was to use keras inbuilt transfer learning architecture. 
 
-Traninig Accuracy of 95% with test accuracy of 86 % was achieved.
+Traninig Accuracy of 95% with test accuracy of 86 % was achieved.  
+  Resources on Transfer Learning :  
+  * Transfer Learning | [Kaggle](https://www.youtube.com/watch?v=mPFq5KMxKVw) 
 
-Resources on Transfer Learning :
-1) Transfer Learning | [Kaggle](https://www.youtube.com/watch?v=mPFq5KMxKVw) 
+
 
 2) Credit card Assesment Using XGBoost [:link:](https://github.com/sushantsp/ML_Projects-/blob/master/Credit_card_Risk_Assessment_using_XGBoost.ipynb)
 
